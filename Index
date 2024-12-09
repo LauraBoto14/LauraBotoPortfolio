@@ -1,0 +1,54 @@
+<!doctype html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>Portfolio</title>
+<link href="css/css.css" rel="stylesheet" type="text/css">
+</head>
+
+<header><nav><ul>
+	<li><a href="Index.html">Inicio</a></li>
+	<li><a href="Sobremi.html" title="Sobre mí">Sobre mí</a></li>
+	<li><a href="CV.pdf" title="Mi currículum" target="_blank">Currículum</a></li>
+</ul>
+	<div class="dropdown">
+  <span>&#8801;</span>
+  <div class="dropdown-content">
+	  <p><a href="Index.html">Inicio</a></p>
+  <p><a href="Sobremi.html" title="Sobre mí">Sobre mí</a></p>
+<p><a href="CV.pdf" title="Mi currículum" target="_blank">Currículum</a></p>
+  </div>
+</div>
+	</nav>
+	
+	
+</header>
+	<body>
+<main><h1><a href="Index.html">Laura Boto</a></h1>
+	<h2>Diseñadora | Realizadora</h2></main>
+
+	<section>
+		<div class="gallery"><a href="Portfolio/Articulo.html" title="Articulo cinemanía"><img src="Imagenes/RobotMini.jpg" alt="RobotDreams" width="300" height="300"></a>
+		  <div class="desc">Artículo para la revista Cinemanía</div>
+        </div>
+		<div class="gallery"><a href="Portfolio/Anuncio.html" title="Anuncio cinemanía"><img src="Imagenes/ScreamMini.jpg" alt="anuncio" width="300" height="300"></a>
+		  <div class="desc">Anuncio a doble página para la revista Cinemaía</div>
+        </div>
+		<div class="gallery"><a href="Portfolio/Pasta.html" title="Cartel Barilla"><img src="Imagenes/PastaMini.jpg" alt="Cartel Barilla" width="300" height="300"></a>
+		  <div class="desc">Anuncio para la marca Barilla</div>
+        </div>
+		<div class="gallery"><a href="Articulo.html" title="Articulo cinemanía"><img src="Imagenes/Robot.jpg" alt="RobotDreams" width="300" height="300"></a>
+		  <div class="desc">Colocar aquí el contenido para  class "desc"</div>
+        </div>
+		<div class="gallery"><a href="Articulo.html" title="Articulo cinemanía"><img src="Imagenes/Robot.jpg" alt="RobotDreams" width="300" height="300"></a>
+		  <div class="desc">Colocar aquí el contenido para  class "desc"</div>
+        </div>
+</section>
+		
+		<footer>
+  <p>Footer
+			</p>
+</footer>
+</body>
+</html>
